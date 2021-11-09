@@ -1,4 +1,4 @@
-Projeto Spring Boot e MongoDB.
+Projeto Spring Boot e MongoDB. (step by step)
 
 :dart:	Implementar operações de CRUD
 
@@ -6,9 +6,7 @@ Projeto Spring Boot e MongoDB.
 
 :dart:	Implementar associações entre objetos
 	
-	1) Objetos aninhados
-  
-	2) Referências
+
 	
 :dart:	 Realizar consultas com Spring Data e MongoRepository
 
